@@ -1,10 +1,10 @@
-title: devlopr
+title: YuhaoZhang
 subtitle: A Jekyll Theme Built for Developers
 description: >- # this means to ignore newlines until "baseurl:"
-  devlopr-jekyll is a Jekyll Theme Built For Developers
+  描述----4
 
-url: "" # the base hostname & protocol for your site, e.g. https://example.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://zyhhideonbush.github.io" # the base hostname & protocol for your site, e.g. https://example.github.io
+baseurl: "https://github.com/zyhhideonbush/" # the subpath of your site, e.g. /blog
 
 urls:
     - text: About Me
@@ -27,8 +27,8 @@ urls:
 author_logo: profile.png
 author: Yuhao Zhang
 author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "johndoe@gmail.com"
-author_location: India
+author_email: "zyhhideonbush@gmail.com"
+author_location: China
 author_website_url: "https://zyhhideonbush.github.io/"
 typewrite-text: 如果你想了解我的具体信息，请点击About Me!
 
