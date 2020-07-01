@@ -29,8 +29,8 @@ author: Yuhao Zhang
 author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
 author_email: "johndoe@gmail.com"
 author_location: India
-author_website_url: "http://johndoe.com"
-typewrite-text: I bulid this for you!
+author_website_url: "https://zyhhideonbush.github.io/"
+typewrite-text: 如果你想了解我的具体信息，请点击About Me!
 
 author_work_experiences:
             - company_name: Google
