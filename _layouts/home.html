@@ -53,5 +53,19 @@ layout: default
           </li>
           {% endfor %}
         </ul>
+        <br />
+        <br />
+        <div id="recent-articles-title">
+          <h1 class="card-title">留言板</h1>
+        </div>
+        
+        {%- if site.hyvor_talk_website_id -%}
+        <div class="comments">
+          {%- include hyvor_comments.html -%}
+         </div>
+          {%- endif -%}
+        <!-- Incomment incase you want to use Disqus
+            <div id="disqus_thread"></div>
+         -->
       </section>
     </div>
