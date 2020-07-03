@@ -1,4 +1,4 @@
-title: devlopr
+title: developer
 subtitle: Welcome to my homepage!
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a Jekyll Theme Built For Developers
@@ -30,28 +30,22 @@ author_bio: Hi, 我是张宇豪。构建这个博客使用了：devlopr-jekyll :
 author_email: "zyhhideonbush@gmail.com"
 author_location: 中国 西安
 author_website_url: "https://zyhhideonbush.github.io/"
-typewrite-text: 如果你想了解我的具体信息，请点击About Me!
+typewrite-text: 如果你想了解我的具体信息，请点击左上角“关于我”!
 
 author_work_experiences:
-            - company_name: Google
-              company_logo: google.png
-              company_url: https://google.com
-              designation: Software Engineer
-              description: Worked on various Google Products
-              visibility: true
-            - company_name: Microsoft
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
+            - company_name: Thoughtworks
+              company_logo: thoughtworksLogo.png
+              company_url: https://www.thoughtworks.com/
+              designation: developer
+              description: Worked on new product
               visibility: true
 
 author_education_details:
-              - college_logo: mit.png
-                college_name: MIT
-                college_url: https://mit.org
-                college_degree: CS Engineer
-                description: Bachelor of Technology
+              - college_logo: university.png
+                college_name: 西安科技大学
+                college_url: https://www.xust.edu.cn/
+                college_degree: 电子与通信工程硕士
+                description: 研究方向：NLP
                 visibility: true
 
 author_project_details:
@@ -59,12 +53,12 @@ author_project_details:
                 project_title: Gamers Hub
                 project_description: A Platform built for Gamers and Game Devs
                 project_url: https://gamershub.in
-                visibility: true
+                visibility: false
               - project_thumbnail: hack4r.PNG
                 project_title: Hack4r
                 project_description: A Platform built for Hackers and Penetration Testers
                 project_url: https://hack4r.com
-                visibility: true
+                visibility: false
 
 # social links
 twitter_username: johndoe
